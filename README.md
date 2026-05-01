@@ -60,11 +60,11 @@ Writing about data analysis on Medium — practical insights, not textbook theor
 I'm open to data analyst roles, collaborative projects, and conversations where data can drive better decisions.
 
 
-[📁 Portfolio]: (https://joluwa-portfolio.super.site/)
+📁 [Portfolio]: (https://joluwa-portfolio.super.site/)
 
-[✍️ Medium]: (medium.com/@adenijipromise)
+✍️ [Medium]: ([medium.com/@adenijipromise](https://medium.com/@adenijipromise))
 
-[💻 GitHub]: (github.com/promise-adeniji)
+💻 [GitHub]: [(github.com/promise-adeniji)](https://github.com/promise-adeniji)
 
 📍 Location: Lagos, Nigeria
 
